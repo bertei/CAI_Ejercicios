@@ -17,7 +17,7 @@ namespace Cai_Ejercicio2
         //Por ejemplo, con el primer número mostrará “1 – Es primo”.
         static void Main(string[] args)
         {
-            int LargoArray = 150;
+            int LargoArray = 370;
             int[] nrosreg = new int[LargoArray];
             int divisible = 0;
 
