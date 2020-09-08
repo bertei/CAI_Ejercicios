@@ -37,10 +37,6 @@ namespace Ejercicio18
 
             Console.WriteLine("El numero ingresado es {0} y su conversion a octal es {1}.", numero, resultado);
 
-            
-
-
-
         }
 
         private static bool ValidarNumero(string nro, ref int salidanro)
